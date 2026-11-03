@@ -1,10 +1,11 @@
 <!-- scope -->
 > [!WARNING]
-> **Script Ã©ducatif â€” contraire aux CGU de Riot Games.**
+> **Script éducatif — contraire aux CGU de Riot Games.**
 >
-> Ce script simule des entrÃ©es clavier/souris pour illustrer l'automatisation cÃ´tÃ© client. Aucun contournement d'anti-cheat.
+> Ce script simule des entrées clavier/souris pour illustrer l'automatisation côté client. Aucun contournement d'anti-cheat.
 >
-> Usage en jeu interdit par les CGU, risque de sanction sur le compte. PubliÃ© pour l'exemple, pas pour Ãªtre utilisÃ©.
+> Usage en jeu interdit par les CGU, risque de sanction sur le compte. Publié pour l'exemple, pas pour être utilisé.
+
 # Valorant Anti-AFK
 
 ## 📌 Description
